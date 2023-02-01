@@ -21,7 +21,8 @@
 
 <section>
   <a href="https://www.linkedin.com/in/romanchistyakov/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a>
-  <a href="mailto:romanchistiakov@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" title="email" alt="email" width="45" height="40"/></a>
+  <a href="mailto:romanchistiakov@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" title="email" alt="email" width="40" height="38"/></a>
+    <a href="https://hh.ru/resume/b406369dff0b8b71430039ed1f497651376d31"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" title="HeadHunter" alt="HeadHunter" width="40" height="40"/></a>
 </section>
 
 <!--
